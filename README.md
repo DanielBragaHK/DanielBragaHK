@@ -1,4 +1,26 @@
-## Bem-vindo(a) ao perfil de Daniel Braga! 😁
+# Oi, me chamo Daniel Braga 👋
+
+### Sobre mim
+
+💻 Eu sou um desenvolvedor  Back-End 
+
+<!-- Isso é um comentário, não irá aparecer no seu perfil
+(Abaixo você seleciona o curso que você está fazendo no momento) -->
+
+🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  @ [ [Cubos Academy](https://cubos.academy/) 
+
+👩‍💻 Atualmente eu busco trabalho como Desenvolvedor Back-End.
+
+🔎 Também sou curioso sobre literatura, RPG, arte, comunicação e idiomas diferentes. 
+
+✒️ Eu gosto de no meu tempo livre jogar RPG, estudar novas línguas e consumir conteúdo artístico;
+
+📚 Lendo: O Enigma de Blackthorn (Kevin Sands) e O Evangelho do Exorcista, Vol. 2 — O Criador da Morte (Leonel Caldela).
+
+### Eu já trabalhei com atendimento ao cliente e tradução inglês-português. 🔧
+
+**Tecnologias e Ferramentas**
+
 
  <div>
    <a href="https://github.com/DanielBragaHK">

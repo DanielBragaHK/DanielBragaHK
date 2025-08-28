@@ -1,5 +1,19 @@
 # Oi, me chamo Daniel Braga 👋
-Desenvolvedor de Software Backend | Javascript | Node.js | SQL | Git
+Desenvolvedor de Software Backend | Javascript | Node.js | SQL | Git | Soluções em Nuvem AWS 
+ 
+
+<p align="center">
+  
+  <a href="https://www.credly.com/badges/68bd7463-68b4-4eb8-ac83-0cddaea87ea5/public_url">
+    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="120" />
+  </a>
+  <a href="https://www.credly.com/badges/63ce59ee-f7a5-455c-90dd-2e31d76992cb/public_url">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" />
+  </a>
+    <a href="https://www.credly.com/badges/96e7ecc1-3825-4d8f-8b72-41517dc71807/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" />
+  </a>
+</p>
 
 ### Sobre mim
 
@@ -8,17 +22,20 @@ Desenvolvedor de Software Backend | Javascript | Node.js | SQL | Git
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  @ [ [Cubos Academy](https://cubos.academy/) 
+  🎓 Eu estudei [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  @  [Cubos Academy](https://cubos.academy/) <br>
+  ☁️  Cursei Desenvolvimento Profissional para Carreiras em Nuvem -Formação para Arquiteto de Soluções AWS @  [Escola da Nuvem](https://escoladanuvem.org)<br>
+  💻  Estou cursando  faculdade de Análise e Desenvolvimento de sistemas  @  [Estácio](https://estacio.br)  (08/2025 a 12/2027)
 
-👩‍💻 Atualmente eu busco trabalho como Desenvolvedor Back-End.
+<br><br>
+👩‍💻 Atualmente eu busco trabalho na área tech, com foco em Desenvolimento Back-End ou Soluções em Nuvem AWS.
 
 🔎 Também sou curioso sobre literatura, RPG, arte, comunicação e idiomas diferentes. 
 
 ✒️ Eu gosto de no meu tempo livre jogar RPG, estudar novas línguas e consumir conteúdo artístico;
 
-📚 Lendo: O Enigma de Blackthorn (Kevin Sands) e O Evangelho do Exorcista, Vol. 2 — O Criador da Morte (Leonel Caldela).
+📚 Lendo: As Brumas de Avalon (Marion Zimmer Bradley) e O Amor nos tempos do Cólera (Gabriel García Márquez).
 
-### Eu já trabalhei com atendimento ao cliente e tradução inglês-português. 🔧
+### Eu já trabalhei com atendimento ao cliente, tradução inglês-português e como Auxiliar administrativo. 🔧
 
 **Tecnologias e Ferramentas**
 </div>
@@ -30,7 +47,7 @@ Desenvolvedor de Software Backend | Javascript | Node.js | SQL | Git
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
- 
+ <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
 </div>
 
 
@@ -44,7 +61,9 @@ Desenvolvedor de Software Backend | Javascript | Node.js | SQL | Git
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
- 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> </a>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> </a>
 </div>
 
  <div>
@@ -65,6 +84,5 @@ Desenvolvedor de Software Backend | Javascript | Node.js | SQL | Git
 <a href = "mailto:danielbragalima.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-braga-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/DanielBragaHK/DanielBragaHK/blob/output/github-contribution-grid-snake.svg)
-
+  
 </div>
